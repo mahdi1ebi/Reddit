@@ -1,13 +1,13 @@
 # Reddit
-## welcome to Reddit!
+## Welcome to Reddit!
 
-this application is programed by java for asking and answering questions.
-##what is Reddit:
+This application is programed by java for asking and answering questions.
+##What is Reddit:
 Redditis a website where people share links to articles, media and other things on the web. The website is organized into "subreddits", communities within the Reddit community to discuss certain topics or to look at specific content. The posted links can be voted on, and the links with most votes are displayed on the front page of the website. Reddit was founded in 2005 by Steve Huffman and Alexis Ohanian, and is also available in other languages. People in the Reddit community call themselves "redditors".[8] Subreddits are directed towards all sort of things, like education, being funny, cute pictures of animals, internet memes, and more.
 
 ## Prerequisites ✅
 
-ensure you have the following prerequisites installed on your workstation:
+Ensure you have the following prerequisites installed on your workstation:
 
 - Java 21
 - Git
@@ -15,7 +15,7 @@ ensure you have the following prerequisites installed on your workstation:
 
 ## Table of Contents :writing_hand:
 
-you can create new post, add comments, see profiles, search subReddits and users, follow community, manage subReddits, like or dislike post and comments and other options.
+You can create new post, add comments, see profiles, search subReddits and users, follow community, manage subReddits, like or dislike post and comments and other options.
 
 ## Description :space_invader:
 
@@ -24,7 +24,7 @@ Reddit is an American social news aggregation, content rating, and forum social 
 
 ## Usage :mechanical_arm:
  
- first you should sing in to the app with username and gamil and a password for your account
+ First you should sing in to the app with username and gamil and a password for your account
  then you can the menu and select anything you want!!!
 
 ## Credits :link:
